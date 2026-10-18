@@ -30,7 +30,7 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 
 *Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.*
 
-### 👩🏼‍💻✨ Lenguajes de programación
+### 👩🏼‍💻୨୧ Lenguajes de programación
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-F4D5E1?style=for-the-badge&logo=openjdk&logoColor=713B52" />
   <img alt="Python" src="https://img.shields.io/badge/Python-F8E7EE?style=for-the-badge&logo=python&logoColor=713B52" />
