@@ -26,11 +26,11 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 
 > Este perfil reúne proyectos académicos y personales. Cada repositorio describe su propósito, las tecnologías utilizadas y los aprendizajes obtenidos.
 
-## 🩷 Tecnologías y herramientas
+## 💻 🎀 Tecnologías y herramientas
 
-*Insignias de referencia: mantén las que hayas utilizado o estés aprendiendo y actualiza esta sección a medida que avances.*
+*Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.*
 
-### Lenguajes de programación
+### 👩🏼‍💻✨ Lenguajes de programación
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-F4D5E1?style=for-the-badge&logo=openjdk&logoColor=713B52" />
   <img alt="Python" src="https://img.shields.io/badge/Python-F8E7EE?style=for-the-badge&logo=python&logoColor=713B52" />
@@ -38,20 +38,20 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
   <img alt="R" src="https://img.shields.io/badge/R-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
 </p>
 
-### Desarrollo web y aplicaciones
+### ⌨️♡ Desarrollo web y aplicaciones
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F8E7EE?style=for-the-badge&logo=springboot&logoColor=713B52" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-EEC0D1?style=for-the-badge&logo=html5&logoColor=713B52" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F4D5E1?style=for-the-badge&logo=css3&logoColor=713B52" />
 </p>
 
-### Bases de datos y análisis
+### ☁️🌸 Bases de datos y análisis
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F8E7EE?style=for-the-badge&logo=postgresql&logoColor=713B52" />
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-F4D5E1?style=for-the-badge&logo=rstudio&logoColor=713B52" />
 </p>
 
-### Herramientas y fundamentos
+### ⚙️✧ Herramientas y fundamentos
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-EEC0D1?style=for-the-badge&logo=git&logoColor=713B52" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-F8E7EE?style=for-the-badge&logo=github&logoColor=713B52" />
