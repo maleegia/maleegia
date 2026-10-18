@@ -124,12 +124,8 @@ Reemplaza los ejemplos de esta sección con proyectos reales de tus repositorios
 ## 📬 Contacto
 
 - **GitHub:** [@maleegia](https://github.com/maleegia)
-- **Correo:** [Agrega aquí tu correo profesional, si deseas publicarlo]
+- **Correo:** [mariaalejagm2@gmail.com](mailto:mariaalejagm2@gmail.com)
 - **LinkedIn:** [Agrega aquí tu enlace, si tienes uno]
-<a href="mailto:mariaalejagm2@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EEC0D1?style=for-the-badge&logo=gmail&logoColor=713B52" />
-</a>
-
 ---
 
 <div align="center">
