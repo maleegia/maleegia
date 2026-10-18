@@ -2,7 +2,7 @@
 
 <img src="./assets/banner-maleegia.svg" alt="maleegia — Ingeniería de Sistemas y Ciencia de Datos" width="100%" />
 
-# ¡Hola! Soy **maleegia** 🌸
+# ¡Hola! Soy **Maria Alejandra** 🌸
 
 ### Estudiante de Ingeniería de Sistemas + Ciencia de Datos
 
@@ -18,7 +18,7 @@
 
 Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos**. Me interesa comprender cómo se construye el software, cómo se organizan y analizan los datos, y cómo la tecnología puede ayudar a resolver problemas reales.
 
-- 💻 Me interesa el desarrollo de software y la construcción de aplicaciones.
+- 💻 Me interesa el desarrollo de software, construcción de aplicaciones, computación en la nube y el manejo de la IA.
 - 📊 Estoy fortaleciendo mis conocimientos en análisis y procesamiento de datos.
 - 🗄️ He trabajado en proyectos académicos relacionados con bases de datos y persistencia de información.
 - 🌱 Disfruto aprender nuevas herramientas y mejorar mis proyectos paso a paso.
