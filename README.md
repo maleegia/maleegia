@@ -50,7 +50,7 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado y 
 ### ☁️🌸 Bases de datos y análisis
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F8E7EE?style=for-the-badge&logo=postgresql&logoColor=713B52" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-F4D5E1?style=for-the-badge&logo=rstudio&logoColor=713B52" />
+  <img alt="RStudio" src="https://img.shields.io/badge/R-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
 </p>
 
 ### ⚙️✧ Herramientas y fundamentos
