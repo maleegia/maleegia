@@ -26,11 +26,12 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 
 > Este perfil reúne proyectos académicos y personales. Cada repositorio describe su propósito, las tecnologías utilizadas y los aprendizajes obtenidos.
 
-## 💻 🎀 Tecnologías y herramientas
-
+<div align="center">
+  ## 💻 🎀 Tecnologías y herramientas 🎀 💻
+</div>
 *Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.*
 
-### 👩🏼‍💻୨୧ Lenguajes de programación
+### 👩🏼‍💻✩ Lenguajes de programación
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-F4D5E1?style=for-the-badge&logo=openjdk&logoColor=713B52" />
   <img alt="Python" src="https://img.shields.io/badge/Python-F8E7EE?style=for-the-badge&logo=python&logoColor=713B52" />
