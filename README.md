@@ -53,7 +53,7 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado y 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F8E7EE?style=for-the-badge&logo=postgresql&logoColor=713B52" />
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
   <img alt="Neon" src="https://img.shields.io/badge/Neon-EEC0D1?style=for-the-badge&logo=neon&logoColor=713B52" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-EEC0D1?style=for-the-badge&logo=powerbi&logoColor=713B52" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-EEC0D1?style=for-the-badge&logo=microsoftpowerbi&logoColor=713B52" />
 </p>
 
 ### ⚙️✧ Herramientas y fundamentos
