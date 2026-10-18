@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner-maleegia.svg" alt="maleegia — Ingeniería de Sistemas y Ciencia de Datos" width="100%" />
+<p align="center">
+  <img src="./assets/banner-maria.png" alt="Banner Maria Alejandra" width="100%" />
+</p>
 
 # ¡Hola! Soy **Maria Alejandra** 🌸
 
