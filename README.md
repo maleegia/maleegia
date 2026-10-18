@@ -117,9 +117,9 @@ Reemplaza los ejemplos de esta sección con proyectos reales de tus repositorios
 
 ## 🌸 Más sobre mí
 
-- 📚 Aprender constantemente y mejorar con la práctica.
-- 🧩 Disfrutar la resolución de problemas y el trabajo por etapas.
-- 💡 Explorar ideas que conecten software, datos y necesidades reales.
+- 📚 Aprendo constantemente y mejoró con la práctica.
+- 🧩 Disfruto la resolución de problemas y el trabajo por etapas.
+- 💡 Exploro ideas que conecten software, datos y necesidades reales.
 
 ## 📬 Contacto
 
