@@ -29,7 +29,8 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 <div align="center">
   ## 💻 🎀 Tecnologías y herramientas 🎀 💻
 </div>
-*Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.*
+
+Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.
 
 ### 👩🏼‍💻✩ Lenguajes de programación
 <p>
