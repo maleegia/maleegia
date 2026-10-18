@@ -26,9 +26,7 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 
 > Este perfil reúne proyectos académicos y personales. Cada repositorio describe su propósito, las tecnologías utilizadas y los aprendizajes obtenidos.
 
-<div align="center">
-  ## 💻 🎀 Tecnologías y herramientas 🎀 💻
-</div>
+<h2 align="center">💻 🎀 Tecnologías y herramientas 🎀 💻</h2>
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.
 
