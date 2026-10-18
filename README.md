@@ -43,9 +43,8 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado y 
 ### ⌨️♡ Desarrollo web y aplicaciones
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F8E7EE?style=for-the-badge&logo=springboot&logoColor=713B52" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-EEC0D1?style=for-the-badge&logo=html&logoColor=713B52" />
+ <img alt="HTML5" src="https://img.shields.io/badge/HTML-EEC0D1?style=for-the-badge&logo=html5&logoColor=713B52" /> 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-F4D5E1?style=for-the-badge&logo=css&logoColor=713B52" />
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-EEC0D1?style=for-the-badge&logo=html5&logoColor=713B52" /> 
 </p>
 
 ### ☁️🌸 Bases de datos y análisis
