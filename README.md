@@ -32,7 +32,7 @@ Soy estudiante de **sexto semestre de Ingeniería de Sistemas y Ciencia de Datos
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado y continúo fortaleciendo mis conocimientos.
 
-### 👩🏼‍💻✩ Lenguajes de programación
+### 👩🏼‍💻✩ Lenguajes de Programación
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-EEC0D1?style=for-the-badge&logo=c%2B%2B&logoColor=713B52" />
   <img alt="Java" src="https://img.shields.io/badge/Java-F4D5E1?style=for-the-badge&logo=openjdk&logoColor=713B52" />
@@ -41,26 +41,35 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado y 
   <img alt="R" src="https://img.shields.io/badge/R-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
 </p>
 
-### ⌨️♡ Desarrollo web y aplicaciones
+### ⌨️♡ Desarrollo Web y Aplicaciones
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F8E7EE?style=for-the-badge&logo=springboot&logoColor=713B52" />
- <img alt="HTML5" src="https://img.shields.io/badge/HTML-EEC0D1?style=for-the-badge&logo=html5&logoColor=713B52" /> 
+ <img alt="HTML" src="https://img.shields.io/badge/HTML-EEC0D1?style=for-the-badge&logo=html5&logoColor=713B52" /> 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-F4D5E1?style=for-the-badge&logo=css&logoColor=713B52" />
+  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-F4D5E1?style=for-the-badge&logo=thymeleaf&logoColor=713B52" />
 </p>
 
-### ☁️🌸 Bases de datos y análisis
+### 🤖 Inteligencia Artificial y Bussines Intelligence
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F8E7EE?style=for-the-badge&logo=powerbi&logoColor=713B52" />
+</p>
+
+### ☁️🌸 Cloud y Bases de Datos
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F8E7EE?style=for-the-badge&logo=postgresql&logoColor=713B52" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
+  <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB_Atlas-EEC0D1?style=for-the-badge&logo=mongodb&logoColor=713B52" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-F8E7EE?style=for-the-badge&logo=supabase&logoColor=713B52" />
   <img alt="Neon" src="https://img.shields.io/badge/Neon-EEC0D1?style=for-the-badge&logo=neon&logoColor=713B52" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F8E7EE?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
 
-### ⚙️✧ Herramientas y fundamentos
+### ⚙️✧ Herramientas y Entornos
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-EEC0D1?style=for-the-badge&logo=git&logoColor=713B52" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-F8E7EE?style=for-the-badge&logo=github&logoColor=713B52" />
+    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-F4D5E1?style=for-the-badge&logo=r&logoColor=713B52" />
   <img alt="Networking" src="https://img.shields.io/badge/Networking-F4D5E1?style=for-the-badge&logo=cisco&logoColor=713B52" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-EEC0D1?style=for-the-badge&logo=intellijidea&logoColor=713B52" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-F8E7EE?style=for-the-badge&logo=visualstudiocode&logoColor=713B52" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F4D5E1?style=for-the-badge&logo=figma&logoColor=713B52" />
 </p>
 
 ## ✨ Proyectos destacados
@@ -112,8 +121,6 @@ Reemplaza los ejemplos de esta sección con proyectos reales de tus repositorios
 <img src="https://streak-stats.demolab.com?user=maleegia&hide_border=true&background=FFF7FA&ring=D989AA&fire=B44F78&currStreakLabel=B44F78&sideLabels=553B49&dates=8B7180" alt="Racha de actividad de GitHub" />
 
 </div>
-
-*Las tarjetas consultan servicios externos y pueden tardar en cargar. Los lenguajes reflejan el código de los repositorios públicos y no representan necesariamente el nivel de dominio.*
 
 ## 🌸 Más sobre mí
 
